@@ -4,7 +4,7 @@ VSCylinderPanoramaViewer
 
 VSCylinderPanoramaViewer is an image viewer that allows you to view images as if they are inside a cylinder.
 
-![Demo](VSCylinderPanoramaViewer.gif)
+![Demo](https://github.com/veasoftware/VSCylinderPanoramaViewer/raw/master/VSCylinderPanoramaViewer.gif)
 
 
 Installation
@@ -26,3 +26,8 @@ self.presentViewController(vc, animated: true, completion: nil)
 ```
 
 VSCylinderPanoramaViewer has the ability to pan and a single click will dismiss the viewer.
+
+Image
+=====
+
+Image is provided by https://unsplash.com
